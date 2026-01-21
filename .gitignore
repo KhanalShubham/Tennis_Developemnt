@@ -1,0 +1,28 @@
+# Models
+*.pt
+*.pth
+*.onnx
+*.h5
+
+# Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Environment and Secrets
+.env
+__pycache__/
+*.pyc
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+
+# YOLO/Ultralytics outputs
+runs/
+
+# IDE
+.vscode/
+.idea/
